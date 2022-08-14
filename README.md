@@ -1,4 +1,4 @@
-### Hi there 👋
+## Assalamu'alaykum yaa ayyuhannas 👋
 
 <!--
 **maldiniabas/maldiniabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Perkenalkan nama saya **Faldy Maldini Abas**.
+
+Saya seorang **Mahasiswa** di [UNAMA](https://unama.ac.id/).
+
+Jika kamu tertarik untuk berkenalan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/faldy-maldini-abas-05a89b175/) dan [Instagram](https://www.instagram.com/maldiniabas/)ku ya.  
+### Baaraakallahu fiikum
